@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "84726940850",
+    "project_id": "quikscan-ea617",
+    "storage_bucket": "quikscan-ea617.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84726940850:android:4733083bde1f03bd6375ab",
+        "android_client_info": {
+          "package_name": "com.quik.scan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "84726940850-02kehhffqqvct06m3d4k8m9q1p9ituj1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2ylGupIsTrU_KYlH1sGUpp5GZ5i7CYQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "84726940850-02kehhffqqvct06m3d4k8m9q1p9ituj1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

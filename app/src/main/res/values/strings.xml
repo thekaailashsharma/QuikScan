@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QuikScan</string>
+    <string name="asset_statements" translatable="true">[{\"include\": \"https://quikscan.page.link/.well-known/assetlinks.json\"}]
+    </string>
+</resources>
